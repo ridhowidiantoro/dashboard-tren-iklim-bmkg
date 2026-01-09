@@ -44,7 +44,7 @@ Dashboard dikembangkan untuk mendukung **Bidang Analisis Perubahan Iklim (BAPI)*
 
 📌 *Dashboard bersifat monitoring dan eksploratif, bukan alat penentu sebab-akibat perubahan iklim.*
 
-▶️ Cara Membuka Dashboard Power BI
+## ▶️ Cara Membuka Dashboard Power BI
 
 Dashboard disimpan dalam bentuk file Power BI Desktop (.pbix) dan tidak dapat dibuka langsung melalui browser GitHub.
 
@@ -69,7 +69,7 @@ File .pbix tidak dapat dibuka tanpa Power BI Desktop
 File tidak bisa dijalankan di browser, GitHub, atau platform web lainnya
 
 
-ℹ️ Informasi Teknis
+## ℹ️ Informasi Teknis
 
 Dashboard bersifat interaktif (filter, slicer, peta, grafik)
 
