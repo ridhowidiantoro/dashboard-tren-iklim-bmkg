@@ -44,6 +44,43 @@ Dashboard dikembangkan untuk mendukung **Bidang Analisis Perubahan Iklim (BAPI)*
 
 📌 *Dashboard bersifat monitoring dan eksploratif, bukan alat penentu sebab-akibat perubahan iklim.*
 
+▶️ Cara Membuka Dashboard Power BI
+
+Dashboard disimpan dalam bentuk file Power BI Desktop (.pbix) dan tidak dapat dibuka langsung melalui browser GitHub.
+
+🔹 Tahapan Membuka File
+
+Buka repository GitHub ini
+
+Klik file dashboard_tren_iklim_nasional.pbix
+
+Klik tombol Download
+
+Buka file hasil unduhan menggunakan:
+
+Power BI Desktop (WAJIB)
+
+Sistem Operasi Windows
+
+📌 Catatan Penting:
+
+File .pbix tidak dapat dibuka tanpa Power BI Desktop
+
+File tidak bisa dijalankan di browser, GitHub, atau platform web lainnya
+
+
+ℹ️ Informasi Teknis
+
+Dashboard bersifat interaktif (filter, slicer, peta, grafik)
+
+Untuk memperbarui data:
+
+Pastikan file sumber data tersedia
+
+Klik Refresh di Power BI Desktop
+
+GitHub digunakan sebagai repositori dokumentasi dan penyimpanan source project, bukan sebagai media publikasi dashboard online
+
 
 ## 🏢 Konteks Penggunaan
 
