@@ -12,7 +12,15 @@ GitHub
 🔹 Sumber Data
 Data iklim BMKG hasil penggabungan 34 provinsi (2015–2025)
 
+Cara MEMBUKA file .pbix dari GitHub 
+- Buka repository GitHub
+- Klik file dashboard_tren_iklim_nasional.pbix
+- Klik Download
+- Buka file tersebut dengan:
+Power BI Desktop (WAJIB)
+Versi Windows
 
+📌 Catetan : Tanpa Power BI Desktop → tidak bisa dibuka
 
 
 🔹 Catatan
