@@ -103,6 +103,8 @@ Dashboard ini dikembangkan untuk:
 > 📌 **Catatan:**
 > Repositori ini digunakan sebagai dokumentasi dan keberlanjutan proyek magang. Dashboard dapat dikembangkan lebih lanjut sesuai kebutuhan BMKG.
 
+https://github.com/ridhowidiantoro/dashboard-tren-iklim-bmkg/blob/main/Cuplikan%20layar%202026-01-09%20151757.png?raw=true
+
 
 
 
