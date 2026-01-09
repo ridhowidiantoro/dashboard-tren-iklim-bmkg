@@ -1,5 +1,3 @@
-# dashboard-tren-iklim-bmkg
-
 # 🌏 Dashboard Monitoring Tren Iklim Nasional – BMKG (2015–2025)
 
 Proyek ini merupakan hasil kegiatan **Magang MBKM** di **Badan Meteorologi, Klimatologi, dan Geofisika (BMKG)** yang berfokus pada pemanfaatan **Power BI dan Python** untuk membangun **dashboard monitoring tren iklim nasional Indonesia**.
@@ -62,6 +60,8 @@ Dashboard ini dikembangkan untuk:
   Mahasiswa Ilmu Komputer – Peserta Magang MBKM
   BMKG – Deputi Klimatologi
   Bidang Analisis Perubahan Iklim (BAPI)
+
+
 
 > 📌 **Catatan:**
 > Repositori ini digunakan sebagai dokumentasi dan keberlanjutan proyek magang. Dashboard dapat dikembangkan lebih lanjut sesuai kebutuhan BMKG.
