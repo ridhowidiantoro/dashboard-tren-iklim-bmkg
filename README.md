@@ -105,7 +105,7 @@ Dashboard ini dikembangkan untuk:
 
 
 
-![Cuplikan layar 2025-07-08 132315](https://github.com/user-attachments/assets/0ae96288-b07c-48f4-9aac-004df7318dd2)
+![Cuplikan Dashboard Monitoring Tren Iklim](Cuplikan%20layar%202026-01-09%20151757.png)
 
 
 
