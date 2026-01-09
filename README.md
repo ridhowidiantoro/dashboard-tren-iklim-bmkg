@@ -103,7 +103,7 @@ Dashboard ini dikembangkan untuk:
 > 📌 **Catatan:**
 > Repositori ini digunakan sebagai dokumentasi dan keberlanjutan proyek magang. Dashboard dapat dikembangkan lebih lanjut sesuai kebutuhan BMKG.
 
-![Cuplikan layar 2026-01-09 151757](assets/dashboard_overview.png)
+![Cuplikan layar 2026-01-09 151757](https://github.com/user-attachments/assets/dashboard_overview.png)
 
 
 
