@@ -14,4 +14,6 @@ Data iklim BMKG hasil penggabungan 34 provinsi (2015–2025)
 
 
 🔹 Catatan
-Repositori ini digunakan untuk dokumentasi dan dapat dilanjutkan oleh pegawai atau mahasiswa magang berikutnya di bidang analisis perubahan iklim klimatologi BMKG apabila ingin dilanjutkan lebih lanjut.
+
+Repositori ini digunakan untuk dokumentasi dan dapat dilanjutkan oleh pegawai atau mahasiswa magang berikutnya
+di bidang analisis perubahan iklim klimatologi BMKG apabila ingin dilanjutkan lebih lanjut.
